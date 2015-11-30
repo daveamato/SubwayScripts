@@ -1,3 +1,8 @@
+/*!
+ * iwp-core.js
+ * Core library for IWP (http://subway.ca/)
+ * written by:  David Amato
+ */
 var SubwayTools = {}; //namespace
 SubwayTools.About = "SubwayIWP Core Javascript v0.1";
 SubwayTools.debug = false;
